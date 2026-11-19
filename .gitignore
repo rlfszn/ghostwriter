@@ -10,3 +10,5 @@ reports/
 .env*
 .mcp.json
 *.local.*
+__pycache__/
+*.pyc
