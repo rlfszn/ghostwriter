@@ -1,0 +1,10 @@
+{
+  "name": "ghostwriter",
+  "version": "1.0.0",
+  "description": "Evidence-backed negotiation profiles of the people you meet, kept on Notion and built from meeting transcripts. Prepares meetings and drafts messages. Text only, never sends, every claim backed by a quote.",
+  "author": {
+    "name": "Elia Rolfi"
+  },
+  "license": "MIT",
+  "keywords": ["negotiation", "meetings", "notion", "transcripts", "profiles", "plaud"]
+}

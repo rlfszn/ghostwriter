@@ -1,0 +1,12 @@
+.DS_Store
+# Your private instance: identity, Notion IDs, writing samples, transcripts
+configuration.md
+style.md
+deletions.md
+.ghostwriter/
+transcripts/
+reports/
+.venv/
+.env*
+.mcp.json
+*.local.*
